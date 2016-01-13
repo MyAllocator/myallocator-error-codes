@@ -1,5 +1,5 @@
-# Myallocator Build2Us API Error Codes
-The following error codes may be sent to OTA's integrating to the myallocator Build2Us API.
+# Myallocator Error Codes
+The following core error codes may be presented to property owners, PMS API integrators, and Build2Us OTA API integrators.
 
 ID   | String                                        | Description                                                                                                                                                                                                                                                                                                
 ---- | --------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
