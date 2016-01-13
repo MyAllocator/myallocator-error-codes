@@ -1,5 +1,5 @@
 # Myallocator Error Codes
-The following core error codes may be presented to property owners, PMS API integrators, and Build2Us OTA API integrators.
+The following core error codes are generated and handled by myallocator for property owners, PMS API integrators, and Build2Us OTA API integrators.
 
 ID   | String                                        | Description                                                                                                                                                                                                                                                                                                
 ---- | --------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
