@@ -1,5 +1,5 @@
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+ Error String  | Error Code    | Description 
+------------- |:-------------:| -----
+ FAULT.GENERAL_RATE_ERROR | 9024 | Could not retrieve rates at this time. Please try again later.
+ FAULT.INVALID_XML | 4 |Received invalid XML response from remote system.
+ FAULT.ISE | 2 | Internal Logic Error (this line should never be reached)
